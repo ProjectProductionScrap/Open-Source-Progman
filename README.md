@@ -4,6 +4,8 @@ Re-Progman: A Clean-Room Reimplementation of the Windows 3.1 Program Manager
 A modern, open-source reconstruction of the classic progman.exe shell from Windows 3.1. This project aims to replicate the exact behavior, user interface, and workflow of the original 16-bit Program Manager using modern programming languages and cross-platform frameworks.
 Developed for educational purposes and interoperability research, this repository contains zero copyrighted code from Microsoft and was built entirely from scratch using clean-room specifications derived from functional behavior and interoperability analysis under Section 185.1 of the Philippine IP Code.
 
+#Notes il try to port it from windows 10 and using it as a default explorer not explorer.exe the bloated one 
+"Warning" "i am not responsible that i broke your computer for testing this and not using a virtual machine to test it."
 
 Windows 3.1 Program Manager (progman.exe) Modern Clone
 Step back into 1992! 💾 This project is a faithful, independent clone of the iconic Windows 3.1 Program Manager shell. If you miss the days of manually organizing program groups, nested windows, and the classic desktop environment, this project is built to bring that exact experience to modern operating systems.
